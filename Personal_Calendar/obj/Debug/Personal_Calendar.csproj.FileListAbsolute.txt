@@ -1,0 +1,13 @@
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\bin\Debug\Personal_Calendar.exe.config
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\bin\Debug\Personal_Calendar.exe
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\bin\Debug\Personal_Calendar.pdb
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.csproj.AssemblyReference.cache
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.Ajob.resources
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.DailyPlan.resources
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.Form1.resources
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.Properties.Resources.resources
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.csproj.GenerateResource.cache
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.csproj.CoreCompileInputs.cache
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.exe
+C:\Users\NamLDC\Code_C#\Personal_Calendar\Personal_Calendar\obj\Debug\Personal_Calendar.pdb
